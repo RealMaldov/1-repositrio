@@ -1,8 +1,10 @@
-CLS:Limpiar la pantalla de comandos.
-CD:Change directory:Cambiar carpeta.
-MD:Make directory:Hacer carpeta.
-Echo:Repetir la palabra.
-Color+?+?:Cambiar de color.
-Dir:Ver las carpetas que cree en mi usuario.
->:Qué es:Para guiar una carpeta o un documento.
-*:Qué significa:Para todo.
+CLS:Limpiar la pantalla de comandos. <- bien
+CD:Change directory:Cambiar carpeta. <- bien
+MD:Make directory:Hacer carpeta. <- bien
+Echo:Repetir la palabra. <- bien
+Color+?+?:Cambiar de color. <- bien
+Dir:Ver las carpetas que cree en mi usuario. <- bien
+>:Qué es:Para guiar una carpeta o un documento. <- bien
+*:Qué significa:Para todo. <- bien
+
+10/10 excelente!
